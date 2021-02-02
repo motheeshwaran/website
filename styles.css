@@ -1,0 +1,60 @@
+.title{
+  font-weight: bold;
+  background-color: #4267B2;
+  color: #FFFFFF;
+  margin: 0 0 0;
+  font-family: monospace;
+font-size: 40px;
+}
+body{
+  margin: 0 0 0;
+}
+.signupbox{
+  padding-left: 700px;
+  padding-top: 100px;
+}
+
+.para {
+  font-size: 40px;
+  font-family:inherit;
+}
+
+.bottom-line{
+  background-color: #4267B2;
+position:fixed;
+bottom: 0;
+}
+
+.signup{
+  margin-top: 20px;
+}
+
+.about{
+  display: inline-block;
+  padding-left: 450px
+}
+
+.bottom{
+  display: inline-block;
+  padding: 0 20px 0 20px
+}
+
+
+.login-success{
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("");
+  font-size: 30px;
+  background-color: #dbf6e9 ;
+}
+
+.signuppage{
+  padding-left: 100px;
+}
+
+.mothi{
+  background-color: #fbf6f0;
+  padding:130px 0 130px 0 ; 
+}
